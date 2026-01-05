@@ -4,7 +4,7 @@
 - Execute the following command to donwload all npm dependenceis
 
 ```
-    npm init
+    npm install
 ```
 
 - In the root directory create `.env` file and add the following env variables
